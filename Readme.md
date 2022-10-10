@@ -1,7 +1,3 @@
-# Interview_Prep_HackerRank
-Interview prep for Software Engineering positions 
-
-
 #### Hello World, 
 I am a data nerd who loves consuming data and information to make data-driven decisions. With a background in Computer Engineering, I have worked across a spectrum of technologies such as Machine Learning, Operating Systems, System Programming, Data Analytics, Web Engineering, and Quantitative Scientific Analysis. 
 
